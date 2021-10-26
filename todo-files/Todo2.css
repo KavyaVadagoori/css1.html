@@ -1,0 +1,128 @@
+@media screen and (min-width:320px) {
+    body{
+        background-color: white;
+        margin-left:50px;
+        margin-top: 20%;
+        margin-right: 15%;
+    }
+}
+
+
+
+
+.parent-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50%;
+    
+}
+.tudo{
+    display: flexbox;
+    justify-content:center;
+    height: 50%;
+    width: 60%;
+    font-style:initial;
+    font-weight: lighter;
+    text-align: center;
+    margin-top: 20px;  
+}
+.btnn{ 
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 5em;
+    font-weight: 2em;
+    border-radius: 50%;
+    background-color: red;
+    color:white ;
+    text-align: center;
+    cursor: pointer;
+    border-spacing: 20px; 
+    float: center ; 
+    margin-right: 50px;
+   margin-top: 20em; 
+}
+
+.btn{
+    height: 100px;
+    line-height: 100px;
+    width: 100px;
+    font-size: 100px;
+    font-weight: bold;
+    border-radius: 50%;
+    background-color: red;
+    color:white ;
+    text-align: center;
+    cursor: pointer;
+    border-spacing: 2em; 
+    position:fixed;
+    bottom: 170px;
+    right: 200px;
+    
+    
+    
+}
+.abc{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 5em;
+    font-weight: bold;
+}
+
+.List{
+    font-family: 'Assistant', sans-serif;
+    font-weight: lighter ;
+    font-size: 30p;
+}
+
+h3{
+    font-size: 4em;
+    text-align-last: center;
+    text-size-adjust: 20px;
+text-underline-position: below;
+ color: red ;
+ text-align: center;
+ font-family:'Roboto', sans-serif ;
+ font-weight: lighter;
+}
+.divider{
+    height: 2px;
+    width: 75%;
+    background-color: gray;
+    display: inline-block;
+}
+
+    
+
+.line{
+    text-align: right;
+}
+p{
+    font-weight: lighter;
+    font-size: 4em;
+    color: red;
+    text-emphasis-color: solid red;
+    text-decoration: solid red line-through;
+    text-align-last: center; 
+}
+
+h4{
+    font-weight: lighter;
+    text-align: center;
+    font-size: 3em;
+}
+
+.task{
+    
+    width:40em;
+    height: 70em;
+    font-family:  "adobe-clean", sans-serif;
+    border-style: outset;
+    border-color:red; 
+    border-width: thin;
+    
+    border-radius: 18px;
+    box-shadow: 8px 8px rgb(177, 170, 170);
+    
+ }
